@@ -46,7 +46,7 @@ Color transitions on hover
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/navigation-menu.git
+git clone https://github.com/alishojaeix/navigation-menu.git
 Open index.html in your browser
 
 # 📁 File Structure
